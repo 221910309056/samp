@@ -2,4 +2,4 @@
 
 **Python Coding**
 
-Python is easy, simple and flexible
+Python is easy, simple and flexible.
